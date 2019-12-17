@@ -1,4 +1,10 @@
 <?xml version="1.0" encoding="utf-8" ?>
+<info>
+  <name>Items</name>
+  <update version="1.0">
+    <file name="items.xml" url="https://github.com/p41c0n/homebrew_dnd/blob/master/items.xml" />
+  </update>
+</info>
 <elements>
 	<element name="Tatsumasa, the Dragon's Fang (corrupted)" type="Magic Item"  source="Homebrew" id="ID_MARTIN_HB_MAGIC_ITEM_TATSUMASA_CORRUPTED">		
 		<description>
