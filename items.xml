@@ -2,7 +2,7 @@
 <info>
   <name>Items</name>
   <update version="1.0">
-    <file name="items.xml" url="https://github.com/p41c0n/homebrew_dnd/blob/master/items.xml" />
+    <file name="items.xml" url="https://raw.githubusercontent.com/p41c0n/homebrew_dnd/master/items.xml" />
   </update>
 </info>
 <elements>
