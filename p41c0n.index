@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<index>
+  <info>
+    <update version="1.0">
+      <file name="p41c0n.index" url="https://github.com/p41c0n/homebrew_dnd/blob/master/p41c0n.index" />
+    </update>
+  </info>
+  <files>
+    <file name="items.xml" url="https://github.com/p41c0n/homebrew_dnd/blob/master/items.xml" />
+  </files>
+</index>
