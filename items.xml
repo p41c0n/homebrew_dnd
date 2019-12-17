@@ -56,8 +56,10 @@
 			<p>A gold coin that seems to reflect light in an unnatural and mesmerizing way.</p>
 			<p class="indent">When interacting with someone outside of combat, you can begin playing with the coin</p>
 			<p class="indent">(Juggling between fingers, flicking it between hands etc.) in an attempt to mesmerize them.</p>
-			<p class="indent">The target must make a Wisdom saving throw contested by a Dexterity (Sleight of hand) check or a Dexterity (Performance) check of your choice.</p>
-			<p class="indent">On a failed save, the target is stunned by the performance and is completely focused on the coin, ignoring anybody or anything around them.</p>
+			<p class="indent">The target must make a Wisdom saving throw contested by a Dexterity (Sleight of hand) check </p>
+			<p class="indent">or a Dexterity (Performance) check of your choice.</p>
+			<p class="indent">On a failed save, the target is stunned by the performance </p>
+			<p class="indent">and is completely focused on the coin, ignoring anybody or anything around them.</p>
 			<p class="indent">This effect ends after one minute, when you end the coin tricks, or if the target is touched/attacked.</p>
             <p class="indent">On a successful save, the target has no hint you tried to mesmerize them.</p>
 		</description>
