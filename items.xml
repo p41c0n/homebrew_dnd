@@ -2,7 +2,7 @@
 <elements>
 	<info>
   		<name>Items</name>
-  		<update version="1.5">
+  		<update version="1.6">
     		<file name="items.xml" url="https://raw.githubusercontent.com/p41c0n/homebrew_dnd/master/items.xml" />
   		</update>
 	</info>
@@ -74,7 +74,8 @@
 			<p class="indent">Kosten der Zutaten: 6GP pro Person</p>
 			<p class="indent">Skillchecks für die Zubereitung: WIS (DC15)</p>
 			<p class="indent">Zeitaufwand für die Zubereitung: 1h</p>
-			<!--<p class="indent">Effekt: +1 auf alle Ability Checks für 8h</p>-->
+			<p class="indent">Effekt: ???</p>
+			<!-- +1 auf alle Ability Checks für 8h -->
 		</description>
 		<setters>
 			<set name="category">Homebrew</set>
@@ -90,7 +91,8 @@
 			<p class="indent">Kosten der Zutaten: 5GP pro Person</p>
 			<p class="indent">Skillchecks für die Zubereitung: WIS (DC12)</p>
 			<p class="indent">Zeitaufwand für die Zubereitung: 1h</p>
-			<!--<p class="indent">Effekt: +1/Level temporary Hitpoints für 8h</p>-->
+			<p class="indent">Effekt: ???</p>
+			<!-- +1/Level temporary Hitpoints für 8h -->
 		</description>
 		<setters>
 			<set name="category">Homebrew</set>
@@ -106,7 +108,8 @@
 			<p class="indent">Kosten der Zutaten: 10GP pro Person</p>
 			<p class="indent">Skillchecks für die Zubereitung: WIS (DC15), DEX (DC15)</p>
 			<p class="indent">Zeitaufwand für die Zubereitung: 2h</p>
-			<!--<p class="indent">Effekt: +1 auf Attack Roles für 8h</p>-->
+			<p class="indent">Effekt: ???</p>
+			<!-- +1 auf Attack Roles für 8h -->
 		</description>
 		<setters>
 			<set name="category">Homebrew</set>
@@ -122,7 +125,8 @@
 			<p class="indent">Kosten der Zutaten: 10GP pro Person</p>
 			<p class="indent">Skillchecks für die Zubereitung: WIS (DC15), DEX (DC15)</p>
 			<p class="indent">Zeitaufwand für die Zubereitung: 2h</p>
-			<!--<p class="indent">Effekt: +1 auf Spell DC und Spell Attack Roles für 8h</p>-->
+			<p class="indent">Effekt: ???+1 auf Spell DC und Spell Attack Roles für 8h</p>
+			<!-- +1 auf Spell DC und Spell Attack Roles für 8h -->
 		</description>
 		<setters>
 			<set name="category">Homebrew</set>
@@ -138,7 +142,8 @@
 			<p class="indent">Kosten der Zutaten: 20GP pro Person</p>
 			<p class="indent">Skillchecks für die Zubereitung: WIS (DC15), DEX (DC15), INT (DC15)</p>
 			<p class="indent">Zeitaufwand für die Zubereitung: 2h</p>
-			<!--<p class="indent">Effekt: +1 AC für 8h</p>-->
+			<p class="indent">Effekt: ???</p>
+			<!-- +1 AC für 8h -->
 		</description>
 		<setters>
 			<set name="category">Homebrew</set>
