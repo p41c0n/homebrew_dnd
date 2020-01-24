@@ -171,6 +171,7 @@
 			<set name="type">Ring</set>
 			<set name="rarity">Legendary</set>
 			<set name="attunement">true</set>
+			<set name="slot">finger</set>
         </setters>
     </element>
 </elements>
