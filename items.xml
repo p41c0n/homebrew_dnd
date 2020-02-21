@@ -223,6 +223,7 @@
 			<set name="type">Wondrous Item</set>
 			<set name="rarity">Rare</set>
         </setters>
+	</element>
 	<element name="Familiar Fightclub Einladungskarte Shael" type="Magic Item" source="Homebrew" id="ID_MARTIN_HB_FFC_INVITATION_SHAEL">
 		<description>
 			<p>Eine metallene Karte auf der auf magische Art und Weise Veranstaltungsorte und Veranstaltungszeiten des FFCs erscheinen.</p>
@@ -234,4 +235,5 @@
 			<set name="type">Wondrous Item</set>
 			<set name="rarity">Rare</set>
         </setters>
+	</element>
 </elements>
