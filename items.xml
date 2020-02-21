@@ -75,7 +75,7 @@
     <element name="Gloves of Radiance" type="Magic Item" source="Homebrew" id="ID_MARTIN_HB_MAGIC_ITEM_GLOVES_OF_RADIANCE">
 		<description>
 			<p>These gloves are highly conspicuous. They are made of a silvery metal and constantly glow with a bright radiant light.</p>
-			<p class="indent">This light grants an advantage on charisma checks not involving deception but imposes disadvantage on all stealth checks   .</p>
+			<p class="indent">This light grants an advantage on charisma checks not involving deception but imposes disadvantage on all stealth checks.</p>
 			<p class="indent">It provides illumination as a torch.</p>
             <p class="indent">Every point of healing applied via lay on hands while wearing these gloves heals 1 additional point.</p>
 		</description>
