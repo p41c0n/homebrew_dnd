@@ -29,7 +29,7 @@
 			<p class="indent">Your weapon attacks with this weapon score a critical hit on a roll of 19 or 20.</p>
 			<p class="indent">You gain a +3 bonus to attack rolls and damage rolls you make with this weapon.</p>
 			<p class="indent">On a hit with this weapon, the target takes an extra 1d6 fire/cold/acid/lightning (of your choosing) damage.</p>
-			<p class="indent">Tab into the Soul of the Dragon (1/day): Choose Fire/Cold/Acid/Lightning, a blast of the chosen element erupts from the Blade. 
+			<p class="indent">Tab into the Soul of the Dragon (1/day): Choose Fire/Cold/Acid/Lightning, a blast of the chosen element erupts from the Blade.</p>
 			<p class="indent">Each creature in a 60-foot cone must make a Dexterity saving throw. A creature takes 8d8 damage of the chosen element on a failed save, or half as much damage on a successful one.)</p>
 		</description>
 		<setters>
