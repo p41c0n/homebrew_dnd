@@ -29,7 +29,7 @@
 			<p class="indent">Your weapon attacks with this weapon score a critical hit on a roll of 19 or 20.</p>
 			<p class="indent">You gain a +3 bonus to attack rolls and damage rolls you make with this weapon.</p>
 			<p class="indent">On a hit with this weapon, the target takes an extra 1d6 fire/cold/acid/lightning (of your choosing) damage.</p>
-			<p class="indent">Tab into the Soul of the Dragon (1/day): Choose Fire/Cold/Acid/Lightning, a blast of the chosen element erupts from the Blade. 
+			<p class="indent">Tab into the Soul of the Dragon (1/day): Choose Fire/Cold/Acid/Lightning, a blast of the chosen element erupts from the Blade.</p>
 			<p class="indent">Each creature in a 60-foot cone must make a Dexterity saving throw. A creature takes 8d8 damage of the chosen element on a failed save, or half as much damage on a successful one.)</p>
 		</description>
 		<setters>
@@ -75,7 +75,7 @@
     <element name="Gloves of Radiance" type="Magic Item" source="Homebrew" id="ID_MARTIN_HB_MAGIC_ITEM_GLOVES_OF_RADIANCE">
 		<description>
 			<p>These gloves are highly conspicuous. They are made of a silvery metal and constantly glow with a bright radiant light.</p>
-			<p class="indent">This light grants an advantage on charisma checks not involving deception but imposes disadvantage on all stealth checks   .</p>
+			<p class="indent">This light grants an advantage on charisma checks not involving deception but imposes disadvantage on all stealth checks.</p>
 			<p class="indent">It provides illumination as a torch.</p>
             <p class="indent">Every point of healing applied via lay on hands while wearing these gloves heals 1 additional point.</p>
 		</description>
@@ -218,6 +218,7 @@
 			<set name="type">Wondrous Item</set>
 			<set name="rarity">Rare</set>
         </setters>
+	</element>
 	<element name="Familiar Fightclub Einladungskarte Shael" type="Magic Item" source="Homebrew" id="ID_MARTIN_HB_FFC_INVITATION_SHAEL">
 		<description>
 			<p>Eine metallene Karte auf der auf magische Art und Weise Veranstaltungsorte und Veranstaltungszeiten des FFCs erscheinen.</p>
@@ -229,4 +230,5 @@
 			<set name="type">Wondrous Item</set>
 			<set name="rarity">Rare</set>
         </setters>
+	</element>
 </elements>
