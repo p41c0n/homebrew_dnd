@@ -70,6 +70,8 @@
             <set name="weight" lb="0">0 lb.</set>
             <set name="type">Ring</set>
             <set name="rarity">Rare</set>
+			<set name="slot">ring</set>
+			<set name="equippable">true</set>
 		</setters>
 	</element>
     <element name="Gloves of Radiance" type="Magic Item" source="Homebrew" id="ID_MARTIN_HB_MAGIC_ITEM_GLOVES_OF_RADIANCE">
@@ -267,6 +269,8 @@
             <set name="weight" lb="0">0 lb.</set>
             <set name="type">Ring</set>
             <set name="rarity">Rare</set>
+			<set name="slot">ring</set>
+			<set name="equippable">true</set>
         </setters>
     </element>
 </elements>
