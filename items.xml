@@ -112,7 +112,6 @@
 			<p class="indent">Skillchecks für die Zubereitung: WIS (DC15)</p>
 			<p class="indent">Zeitaufwand für die Zubereitung: 1h</p>
 			<p class="indent">Effekt: +1 auf alle Ability Checks für 8h</p>
-			<!-- +1 auf alle Ability Checks für 8h -->
 		</description>
 		<setters>
 			<set name="category">Homebrew</set>
@@ -128,8 +127,7 @@
 			<p class="indent">Kosten der Zutaten: 10GP pro Person</p>
 			<p class="indent">Skillchecks für die Zubereitung: WIS (DC12)</p>
 			<p class="indent">Zeitaufwand für die Zubereitung: 1h</p>
-			<p class="indent">Effekt: ???</p>
-			<!-- +1/Level temporary Hitpoints für 8h -->
+			<p class="indent">Effekt: +1/Level temporary Hitpoints für 8h</p>
 		</description>
 		<setters>
 			<set name="category">Homebrew</set>
@@ -145,8 +143,7 @@
 			<p class="indent">Kosten der Zutaten: 20GP pro Person</p>
 			<p class="indent">Skillchecks für die Zubereitung: WIS (DC15), DEX (DC15)</p>
 			<p class="indent">Zeitaufwand für die Zubereitung: 2h</p>
-			<p class="indent">Effekt: ???</p>
-			<!-- +1 auf Attack Roles für 8h -->
+			<p class="indent">Effekt: +1 auf Attack Roles für 8h</p>
 		</description>
 		<setters>
 			<set name="category">Homebrew</set>
@@ -162,8 +159,7 @@
 			<p class="indent">Kosten der Zutaten: 20GP pro Person</p>
 			<p class="indent">Skillchecks für die Zubereitung: WIS (DC17), DEX (DC17)</p>
 			<p class="indent">Zeitaufwand für die Zubereitung: 2h</p>
-			<p class="indent">Effekt: ???</p>
-			<!-- +1 auf Spell DC und Spell Attack Roles für 8h -->
+			<p class="indent">Effekt: +1 auf Spell DC und Spell Attack Roles für 8h</p>
 		</description>
 		<setters>
 			<set name="category">Homebrew</set>
@@ -180,7 +176,6 @@
 			<p class="indent">Skillchecks für die Zubereitung: WIS (DC15), DEX (DC15), INT (DC15)</p>
 			<p class="indent">Zeitaufwand für die Zubereitung: 2h</p>
 			<p class="indent">Effekt: +1 AC für 8h</p>
-			<!-- +1 AC für 8h -->
 		</description>
 		<setters>
 			<set name="category">Homebrew</set>
