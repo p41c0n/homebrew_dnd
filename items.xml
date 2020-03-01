@@ -62,7 +62,7 @@
 	<element name="Ring of Lightning Strikes" type="Magic Item"  source="Homebrew" id="ID_MARTIN_HB_MAGIC_ITEM_RING_OF_LIGHTNING_STRIKES">		
 		<description>
 			<p>A silver signet ring bearing a stylized Blue Sapphire which emanates an aura of electricity.</p>
-			<p class="indent">You gain a +1 bonus to attack rolls you make with unarmed strikes while wearing this ring. On every fourth hit with this weapon, the target takes an extra 2d6 lightning damage.</p>
+			<p class="indent">You gain a +1 bonus to attack rolls you make with unarmed strikes while wearing this ring. On every fourth unarmed hit while wearing this ring, the target takes an extra 2d6 lightning damage.</p>
 		</description>
 		<setters>
             <set name="category">Homebrew</set>
@@ -193,8 +193,10 @@
 			<p class="indent">The ring radiates Wild Magic. When you attune to the ring or cast a spell with it roll once on the Wild Magic Table.</p>
 			<p class="indent">Ring of Fire Elemental Command. You can expend 2 of the ring's charges to cast dominate monster on a fire elemental. In addition, you have resistance to fire damage. You can also speak and understand Ignan.</p>
 			<p class="indent">If you help slay a fire elemental while attuned to the ring, you gain access to the following additional properties:</p>
-			<p class="indent">- You are immune to fire damage.</p>
-			<p class="indent">- You can cast the following spells from the ring, expending the necessary number of charges: burning hands (1 charge), fireball (2 charges), and wall of fire (3 charges).</p>
+			<ul>
+				<li>You are immune to fire damage.</li>
+				<li>You can cast the following spells from the ring, expending the necessary number of charges: <strong><em>burning hands</em></strong> (1 charge), <strong><em>fireball</em></strong> (2 charges), and <strong><em>wall of fire</em></strong> (3 charges).</li>
+			</ul>
 		</description>
 		<setters>
 			<set name="category">Homebrew</set>
@@ -246,4 +248,25 @@
 			<set name="rarity">Rare</set>
         </setters>
 	</element>
+	<element name="Ring of King Kamehameha the First" type="Magic Item" source="Homebrew" id="ID_MARTIN_HB_RING_OF_KING_KAMEHAMEHA_THE_FIRST">
+        <description>
+            <p>A silver signet ring bearing the stylized symbol of the Kamehameha dynasty.</p>
+            <p class="indent">As an action, a monk wearing a <em>Ring of King Kamehameha the First</em> can expend one KI point to cast Schildkrötenwelle:</p>
+			<ul>
+				<li>Casting Time: 1 action</li>
+				<li>Range: 120 feet</li>
+				<li>Components: V S</li>
+				<li>Duration: Instantaneous</li>
+				<li>Classes: Monk</li>
+				<li>You hurl a ball of force at a creature or object within range. Make a ranged attack against the target (with proficiency). On a hit, the target takes 2d6 force damage. This spell’s damage increases by 2d6 when you reach 5th level (4d6), 11th level (6d6), and 17th level (8d6).</li>
+			</ul>
+	    </description>
+        <setters>
+            <set name="category">Homebrew</set>
+            <set name="cost" currency="gp">0</set>
+            <set name="weight" lb="0">0 lb.</set>
+            <set name="type">Ring</set>
+            <set name="rarity">Rare</set>
+        </setters>
+    </element>
 </elements>
