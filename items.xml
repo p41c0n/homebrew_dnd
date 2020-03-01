@@ -231,4 +231,19 @@
 			<set name="rarity">Rare</set>
         </setters>
 	</element>
+	<element name="Tatsumana Cleansing Ritual" type="Magic Item" source="Homebrew" id="ID_MARTIN_HB_TATSUMASA_CLEANSING_RITUAL">
+		<description>
+			<p>Eine Schriftrolle mit einer genauen Anleitung, die das Säuberungritual durchgeführt werden kann und welche Materialien benötigt werden.</p>
+			<p class="indent">5 Schuppen unterschiedlicher metallener und chromatischer Dragons (Gold, Silver, Bronze, Brass, Copper, Black, Red, Blue, Green, White)</p>
+			<p class="indent">25k GP an Edelsteinen und magischen Ressourcen</p>
+			<p class="indent">drakonisches Gebet</p>
+		</description>
+		<setters>
+			<set name="category">Homebrew</set>
+			<set name="cost" currency="gp">0</set>
+			<set name="weight" lb="0">0 lb.</set>
+			<set name="type">Wondrous Item</set>
+			<set name="rarity">Rare</set>
+        </setters>
+	</element>
 </elements>
