@@ -2,7 +2,7 @@
 <elements>
 	<info>
   		<name>Items</name>
-  		<update version="1.2.0">
+  		<update version="1.2.1">
     		<file name="items.xml" url="https://raw.githubusercontent.com/p41c0n/homebrew_dnd/master/items.xml" />
   		</update>
 	</info>
@@ -70,7 +70,7 @@
             <set name="weight" lb="0">0 lb.</set>
             <set name="type">Ring</set>
             <set name="rarity">Rare</set>
-			<set name="slot">ring</set>
+			<set name="slot">finger</set>
 			<set name="equippable">true</set>
 		</setters>
 	</element>
@@ -207,7 +207,7 @@
 			<set name="type">Ring</set>
 			<set name="rarity">Legendary</set>
 			<set name="attunement">true</set>
-			<set name="slot">ring</set>
+			<set name="slot">finger</set>
 			<set name="equippable">true</set>
         </setters>
     </element>
@@ -269,7 +269,7 @@
             <set name="weight" lb="0">0 lb.</set>
             <set name="type">Ring</set>
             <set name="rarity">Rare</set>
-			<set name="slot">ring</set>
+			<set name="slot">finger</set>
 			<set name="equippable">true</set>
         </setters>
     </element>
