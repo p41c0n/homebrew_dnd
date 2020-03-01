@@ -251,7 +251,7 @@
 	<element name="Ring of King Kamehameha the First" type="Magic Item" source="Homebrew" id="ID_MARTIN_HB_RING_OF_KING_KAMEHAMEHA_THE_FIRST">
         <description>
             <p>A silver signet ring bearing the stylized symbol of the Kamehameha dynasty.</p>
-            <p class="indent">As an action, a monk wearing a <em>Ring of King Kamehameha the First</em> can expend one KI point to cast Schildkrötenwelle:</p>
+            <p class="indent">As an action, a monk wearing a <em>Ring of King Kamehameha the First</em> can expend five KI points to cast Schildkrötenwelle:</p>
 			<ul>
 				<li>Casting Time: 1 action</li>
 				<li>Range: 120 feet</li>
