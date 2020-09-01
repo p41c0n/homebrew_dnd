@@ -47,7 +47,8 @@
 			<p>Die Seele eines Uralten Drachen soll in diesem Schwert gefangen sein.</p>
 			<p class="indent">Your weapon attacks with this weapon score a critical hit on a roll of 19 or 20.</p>
 			<p class="indent">You gain a +5 bonus to attack rolls and damage rolls you make with this weapon.</p>
-			<p class="indent">???</p>
+			<p class="indent">On a hit with this weapon, the target takes an extra 2d6 radiant damage.</p>
+			<p class="indent">Summon the Soul of the Dragon (1/day): Summon Tatsumasa, the Spirit Dragon.</p>
 		</description>
 		<setters>
 			<set name="category">Homebrew</set>
