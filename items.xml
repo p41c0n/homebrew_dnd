@@ -2,7 +2,7 @@
 <elements>
 	<info>
   		<name>Items</name>
-  		<update version="1.2.7">
+  		<update version="1.2.8">
     		<file name="items.xml" url="https://raw.githubusercontent.com/p41c0n/homebrew_dnd/master/items.xml" />
   		</update>
 	</info>
@@ -89,23 +89,6 @@
 			<set name="type">Wondrous Item</set>
 			<set name="rarity">Rare</set>
 			<set name="slot">hands</set>
-        </setters>
-    </element>
-	<element name="Trickster Coin" type="Magic Item" source="Homebrew" id="ID_MARTIN_HB_MAGIC_ITEM_TRICKSTER_COIN">
-		<description>
-			<p>A gold coin that seems to reflect light in an unnatural and mesmerizing way.</p>
-			<p class="indent">When interacting with someone outside of combat, you can begin playing with the coin (Juggling between fingers, flicking it between hands etc.) in an attempt to mesmerize them.</p>
-			<p class="indent">The target must make a Wisdom saving throw contested by a Dexterity (Sleight of hand) check or a Dexterity (Performance) check of your choice.</p>
-			<p class="indent">On a failed save, the target is stunned by the performance and is completely focused on the coin, ignoring anybody or anything around them.</p>
-			<p class="indent">This effect ends after one minute, when you end the coin tricks, or if the target is touched/attacked.</p>
-            <p class="indent">On a successful save, the target has no hint you tried to mesmerize them.</p>
-		</description>
-		<setters>
-			<set name="category">Homebrew</set>
-			<set name="cost" currency="gp">0</set>
-			<set name="weight" lb="0">0 lb.</set>
-			<set name="type">Wondrous Item</set>
-			<set name="rarity">Rare</set>
         </setters>
     </element>
 	<element name="Kochrezept, Nudelgericht" type="Magic Item" source="Homebrew" id="ID_MARTIN_HB_COOKING_1">
@@ -274,7 +257,7 @@
 			<set name="equippable">true</set>
         </setters>
     </element>
-	<element name="Arien's Family Amulett" type="Magic Item" source="Homebrew" id="ID_MARTIN_HB_ARIEN_AMULETT">
+	<element name="Arien's Family Amulett" type="Magic Item" source="Homebrew" id="ID_MARTIN_HB_ARIEN_AMULET">
         <description>
             <p>This silver amulet is fashioned as a crescent with a small blue sapphire. While Arien is wearing it, she gains the following benefits:</p>
 			<ul>
@@ -283,7 +266,7 @@
 			</ul>
 	    </description>
         <setters>
-			<set name="category">Wondrous Items</set>
+			<set name="category">Homebrew</set>
 			<set name="cost" currency="gp">0</set>
 			<set name="weight" lb="0">0 lb.</set>
 			<set name="type">Wondrous Item</set>
