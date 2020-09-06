@@ -2,7 +2,7 @@
 <elements>
 	<info>
   		<name>Items</name>
-  		<update version="1.2.6">
+  		<update version="1.2.7">
     		<file name="items.xml" url="https://raw.githubusercontent.com/p41c0n/homebrew_dnd/master/items.xml" />
   		</update>
 	</info>
@@ -188,7 +188,7 @@
 			<set name="rarity">Rare</set>
         </setters>
     </element>
-	<element name="RING OF FIRE ELEMENTAL COMMAND" type="Magic Item" source="Homebrew" id="ID_MARTIN_HB_RING_OF_FIRE_ELEMENTAL_COMMAND">
+	<element name="Ring of Fire Elemental Command" type="Magic Item" source="Homebrew" id="ID_MARTIN_HB_RING_OF_FIRE_ELEMENTAL_COMMAND">
 		<description>
 			<p>This ring is linked to the Elemental Plane of Fire.</p>
 			<p class="indent">While wearing this ring, you have advantage on attack rolls against elementals from the linked plane, and they have disadvantage on attack rolls against you. In addition, you have access to properties based on the linked plane.</p>
@@ -273,5 +273,23 @@
 			<set name="slot">finger</set>
 			<set name="equippable">true</set>
         </setters>
+    </element>
+	<element name="Arien's Family Amulett" type="Magic Item" source="Homebrew" id="ID_MARTIN_HB_ARIEN_AMULETT">
+        <description>
+            <p>This silver amulet is fashioned as a crescent with a small blue sapphire. While Arien is wearing it, she gains the following benefits:</p>
+			<ul>
+				<li>You can use your Wild Shape ability one additional time. You regain this additional use when you finish a short or long rest.</li>
+				<li>While wearing this amulet, you can use an action to cast the Pass without Trace spell. The amulet can't be used this way again until the next dawn.</li>
+			</ul>
+	    </description>
+        <setters>
+			<set name="category">Wondrous Items</set>
+			<set name="cost" currency="gp">0</set>
+			<set name="weight" lb="0">0 lb.</set>
+			<set name="type">Wondrous Item</set>
+			<set name="rarity">Legendary</set>
+			<set name="slot">neck</set>
+			<set name="equippable">true</set>
+		</setters>
     </element>
 </elements>
