@@ -2,7 +2,7 @@
 <elements>
 	<info>
   		<name>Items</name>
-  		<update version="1.2.8">
+  		<update version="1.2.9">
     		<file name="items.xml" url="https://raw.githubusercontent.com/p41c0n/homebrew_dnd/master/items.xml" />
   		</update>
 	</info>
@@ -257,7 +257,7 @@
 			<set name="equippable">true</set>
         </setters>
     </element>
-	<element name="Arien's Family Amulett" type="Magic Item" source="Homebrew" id="ID_MARTIN_HB_ARIEN_AMULET">
+	<element name="Arien's Family Amulet" type="Magic Item" source="Homebrew" id="ID_MARTIN_HB_ARIEN_AMULET">
         <description>
             <p>This silver amulet is fashioned as a crescent with a small blue sapphire. While Arien is wearing it, she gains the following benefits:</p>
 			<ul>
